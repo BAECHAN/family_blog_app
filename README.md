@@ -2,6 +2,8 @@
 
 팸로그 Official Repository
 
+<img src="https://github.com/BAECHAN/family_blog_app/assets/54573684/8b06ccb6-6771-48ed-b360-2ffdf11d2143.png"  width="300"/>
+
 ## 팸로그 - 가족블로그
 
 ### 1. 목적
