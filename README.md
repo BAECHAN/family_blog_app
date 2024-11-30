@@ -1,4 +1,5 @@
 # family_blog_app
+![famlog](https://github.com/BAECHAN/family_blog_app/assets/170059966/8da0e25b-4e26-49e7-91e5-219e65bf9dc5)
 
 팸로그 Official Repository
 
